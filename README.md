@@ -7,4 +7,5 @@ Customer personality analysis helps a business to modify its product based on it
 # Conclusion
 ### Cluster 0:
 low spending and low income 
+
 Relatively younger than others
