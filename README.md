@@ -6,6 +6,21 @@ Customer personality analysis helps a business to modify its product based on it
 
 # Conclusion
 ### Cluster 0:
-low spending and low income 
+Low spending and low income 
 
-Relatively younger than others
+Relatively younger than others (52)
+
+### Cluster 1:
+High spending and high income
+
+Relatively older than others (57)
+
+### Cluster 2:
+Most spending and highest income
+
+Average age is 54
+
+### Cluster 2:
+Moderate spending and moderate income
+
+Average age is 56
