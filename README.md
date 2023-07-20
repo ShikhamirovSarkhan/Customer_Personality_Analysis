@@ -4,7 +4,6 @@ Customer personality analysis helps a business to modify its product based on it
 # Result table
 ![My Image](https://github.com/ShikhamirovSarkhan/Customer_Personality_Analysis/blob/1da7bdc42efd4a337408736ce83f7cd79d95f3d1/Customer%20Personality.png)
 
-# Conclusion
 ### Cluster 0:
 Low spending and low income 
 
@@ -24,3 +23,7 @@ Average age is 54
 Moderate spending and moderate income
 
 Average age is 56
+
+# Conclusion
+To take a look at the clustering of clients in the dataset, I’ll define the segments of the clients. Here we will use 4 equally weighted customer segments
+Above table shows that have a clear seperation between clusters and 0.627 silhouette_score support that.
